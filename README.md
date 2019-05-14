@@ -2,7 +2,7 @@
 
 All you have to do is run 
 
-```
+```console
 ./curl-recon.sh wordlist.txt
 ```
 
